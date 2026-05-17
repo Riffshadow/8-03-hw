@@ -13,7 +13,9 @@
 - CPU load (`system.cpu.load[all,avg1]`)
 - RAM usage (`vm.memory.size[pused]`)
 
-![task1](1.jpg)
+Скриншот:
+
+![CPU/RAM](screenshots/1.jpg)
 
 ---
 
@@ -23,11 +25,13 @@
 - ivan-1
 - ivan-2
 
-К хостам подключён шаблон мониторинга Linux.
+К хостам подключен шаблон мониторинга Linux.
 
 Проверено получение данных от агентов.
 
-![task2](hosts.jpg)
+Скриншот:
+
+![Hosts](screenshots/hosts.jpg)
 
 ---
 
@@ -41,4 +45,6 @@
 
 Проверено отображение метрик.
 
-![task4](dashboard.jpg)
+Скриншот:
+
+![Dashboard](screenshots/dashboard.jpg)
