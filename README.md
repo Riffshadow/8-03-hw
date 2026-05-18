@@ -1,4 +1,4 @@
-# Zabbix. Часть 2
+# Система мониторинга Zabbix часть 2
 
 ## Выполнил
 Чернобровкин Иван
@@ -48,3 +48,11 @@
 Скриншот:
 
 ![Dashboard](screenshots/dashboard.jpg)
+
+---
+
+## График мониторинга (Dashboard)
+
+Добавлен график загрузки CPU и RAM.
+
+![graph](screenshots/Graph.jpg)
