@@ -16,6 +16,8 @@
 Скриншот:
 
 ![CPU/RAM](screenshots/1.jpg)
+![CPU/RAM](screenshots/Task1.jpg)
+
 
 ---
 
